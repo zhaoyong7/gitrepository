@@ -5,3 +5,4 @@ git tracks changes of files
 greateing a new branch is quick
 bug branch!!!
 full the dev
+fetch branch dev
